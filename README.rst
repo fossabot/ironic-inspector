@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmartencassel%2Fironic-inspector.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmartencassel%2Fironic-inspector?ref=badge_shield)
+
 ===============================================
 Hardware introspection for OpenStack Bare Metal
 ===============================================
@@ -35,3 +37,7 @@ Release Notes
 For information on any current or prior version, see `the release notes`_.
 
 .. _the release notes: https://docs.openstack.org/releasenotes/ironic-inspector/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmartencassel%2Fironic-inspector.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmartencassel%2Fironic-inspector?ref=badge_large)
